@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_serverkey">AIzaSyCDCmgdmaq_o5CgeoiRWhIEpjy9yB751w0</string>
+    <string name="pb_appid">56ebff4737d9b07d148b4568</string>
+    <string name="pb_senderid">4921591333</string>
+    <string name="pb_logLevel">DEBUG</string>
+</resources>
